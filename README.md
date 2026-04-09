@@ -1,11 +1,9 @@
 # python-data-science-fundamentos
 
 # Curso de Python
-
 Repositório com os exercícios e anotações do curso.
 
-## Conteúdo
-
+# Conteúdo
 - 01 - Primeiros comandos
 - 02 - Variáveis
 - 03 - Operadores
@@ -14,7 +12,6 @@ Repositório com os exercícios e anotações do curso.
 - 06 - Funções
 - 07 - Importação de dados
 
-## Objetivo
-
+# Objetivo
 Este repositório serve para estudo e prática de Python.
 

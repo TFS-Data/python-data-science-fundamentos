@@ -11,6 +11,9 @@ Repositório com os exercícios e anotações do curso.
 - 05 - Laços de repetição
 - 06 - Funções
 - 07 - Importação de dados
+- 08-analise-exploratoria
+- 09-tratamento-de-dados
+- 10-analise-descritiva
 
 # Objetivo
 Este repositório serve para estudo e prática de Python.
